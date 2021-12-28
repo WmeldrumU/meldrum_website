@@ -354,8 +354,14 @@
 		}
 
 		&.fit {
-			display: block;
+			
 			width: 100%;
+			height: 100%;
+			object-fit: cover;
+			filter:brightness(50%);
+		}
+
+		&.overlay {
 		}
 
 		&.featured {
@@ -378,6 +384,15 @@
 				width: auto;
 			}
 		}
+	}
+
+	.textoverlay {
+		position: fixed;
+		bottom: 0;
+		//background: rgba(0, 0, 0, 0.5);
+		color: #f1f1f1;
+		width: 100%;
+		padding: 20px;
 	}
 
 /* Button */

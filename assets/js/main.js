@@ -12,7 +12,25 @@
 		$main = $('#main'),
 		$panels = $main.children('.panel'),
 		$nav = $('#nav'), $nav_links = $nav.children('a');
+		$imFitOverlay = $('.image.fit.overlay');
 
+		$imFitOverlay.hover(
+		
+		//mouseenter
+		function() {
+			var t = $imFitOverlay.find('video')[0];
+			t.play();
+		}, 
+		//mouseleave
+		function() {
+			var t = $imFitOverlay.find('video')[0];
+			t.pause();
+			t.currentTime = 0;
+		}
+		);
+
+
+		
 	// Breakpoints.
 		breakpoints({
 			xlarge:  [ '1281px',  '1680px' ],
