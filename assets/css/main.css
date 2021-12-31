@@ -1922,10 +1922,18 @@ body.is-preload #wrapper {
   margin-bottom: 0;
 }
 
-#main > .panel.intro header p {
+#main > .panel.intro header h2 {
   letter-spacing: -0.015em;
   font-size: 1.25em;
   margin: 0.25em 0 0 0;
+  color: #aaa;
+  font-weight: 100;
+}
+
+#main > .panel.intro header p {
+  letter-spacing: -0.015em;
+  margin: 0.25em 0 0 0;
+  color: rgba(0, 0, 0, 0.75);
 }
 
 @media screen and (max-width: 980px) {
@@ -1944,6 +1952,9 @@ body.is-preload #wrapper {
   #main > .panel.intro header {
     padding: 4em;
     text-align: center;
+  }
+  #main > .panel.intro header p {
+    text-align: left;
   }
 }
 
