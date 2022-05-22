@@ -1,9 +1,9 @@
 # Image, name, profession in the sidebar
 
 image: /assets/images/author-image.jpg
-name: John Doe
-profession: A Web Developer
-email: john@doe.com # The contact form submissions will be received in this email address.
+name: William Meldrum
+profession: Software Engineer
+email: wmeldrum1@gmail.com # The contact form submissions will be received in this email address.
 
 #   ,-----.       ,--.                   ,---.  ,--.
 #  '  .--./ ,---. |  | ,---. ,--.--.    '   .-' |  ,---.  ,---. ,--,--,--. ,---.
@@ -44,51 +44,47 @@ menu:
 # use font awesome icon code in the 'icon:' value
 social:
   facebook:
-       icon: fa-facebook-square
-       link: https://facebook.com
+      #  icon: fa-facebook-square
+      #  link: https://facebook.com
 
   twitter:
-      icon: fa-twitter
-      link: https://twitter.com
+      # icon: fa-twitter
+      # link: https://twitter.com
 
   linkedin:
       icon: fa-linkedin
-      link: https://linkedin.com
+      link: https://www.linkedin.com/in/william-meldrum-481651123/
 
   github:
       icon: fa-github
-      link: https://github.com
+      link: https://github.com/WmeldrumU
 
 
 
 expertise:
-  - title: HTML5
-    level: 45
+  - title: C++
+    level: 80
     color: rgb(247, 205, 182)
 
-  - title: CSS3
-    level: 65
+  - title: Python
+    level: 80
     color: rgb(113, 178, 222)
 
-  - title: jQuery
-    level: 50
+  - title: OpenGL
+    level: 75
     color: rgb(80, 185, 185)
 
-  - title: PHP
-    level: 40
+  - title: Vulkan
+    level: 60
     color: rgb(124, 142, 222)
 
-  - title: WordPress
+  - title: Linux Systems
     level: 75
     color: rgb(160, 158, 158)
 
-  - title: SEO
+  - title: Troubleshooting
     level: 90
     color: rgb(112, 195, 148)
 
-  - title: Photoshop
-    level: 70
-    color: rgb(230, 133, 172)
 
-
-buy-button: true
+buy-button: false

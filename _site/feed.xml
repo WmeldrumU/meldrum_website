@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-05-22T14:15:37-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Blackcurrant</title><subtitle>Blackcurrant is a minimal theme to show off your skills online.</subtitle><entry><title type="html">Blackcurrant Jekyll Theme</title><link href="http://localhost:4000/blog/blackcurrant/" rel="alternate" type="text/html" title="Blackcurrant Jekyll Theme" /><published>2018-11-22T00:00:00-07:00</published><updated>2018-11-22T00:00:00-07:00</updated><id>http://localhost:4000/blog/blackcurrant</id><content type="html" xml:base="http://localhost:4000/blog/blackcurrant/">&lt;p&gt;&lt;small&gt;Image Credits:&lt;a href=&quot;https://www.fruitlayer.com&quot;&gt; Fruit Layer&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-05-22T14:42:51-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Blackcurrant</title><subtitle>Blackcurrant is a minimal theme to show off your skills online.</subtitle><entry><title type="html">Blackcurrant Jekyll Theme</title><link href="http://localhost:4000/blog/blackcurrant/" rel="alternate" type="text/html" title="Blackcurrant Jekyll Theme" /><published>2018-11-22T00:00:00-07:00</published><updated>2018-11-22T00:00:00-07:00</updated><id>http://localhost:4000/blog/blackcurrant</id><content type="html" xml:base="http://localhost:4000/blog/blackcurrant/">&lt;p&gt;&lt;small&gt;Image Credits:&lt;a href=&quot;https://www.fruitlayer.com&quot;&gt; Fruit Layer&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
 
 &lt;p&gt;Blackcurrant is a Jekyll theme suitable for personal, blog, resume or portfolio websites.&lt;/p&gt;
 
@@ -396,13 +396,6 @@ var myChart = new Chart(ctx, {
 &lt;p&gt;With all these goodness, you will also get full support for 3 months.&lt;/p&gt;
 
 &lt;h2 id=&quot;buy-blackcurrant-jekyll-theme&quot;&gt;Buy Blackcurrant Jekyll Theme&lt;/h2&gt;
-
-&lt;div class=&quot;d-md-flex py-3&quot;&gt;
-  &lt;a href=&quot;/blog/blackcurrant/&quot; class=&quot;btn btn-primary btn-lg mr-md-4 mb-2&quot; data-aos=&quot;zoom-in&quot;&gt;About Blackcurrant&lt;/a&gt;
-  &lt;form&gt;
-    &lt;script src=&quot;https://checkout.razorpay.com/v1/payment-button.js&quot; data-payment_button_id=&quot;pl_GFIR590yM0seg4&quot;&gt;&lt;/script&gt;
-  &lt;/form&gt;
-&lt;/div&gt;
 
 &lt;p&gt;&lt;strong&gt;We provide 3 months support.&lt;/strong&gt;&lt;/p&gt;
 
