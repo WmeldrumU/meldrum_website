@@ -1,9 +1,9 @@
 # Image, name, profession in the sidebar
 
 image: /assets/images/author-image.jpg
-name: William Meldrum
-profession: Software Engineer
-email: wmeldrum1@gmail.com # The contact form submissions will be received in this email address.
+name: John Doe
+profession: A Web Developer
+email: john@doe.com # The contact form submissions will be received in this email address.
 
 #   ,-----.       ,--.                   ,---.  ,--.
 #  '  .--./ ,---. |  | ,---. ,--.--.    '   .-' |  ,---.  ,---. ,--,--,--. ,---.
@@ -53,11 +53,11 @@ social:
 
   linkedin:
       icon: fa-linkedin
-      link: https://www.linkedin.com/in/william-meldrum-481651123/
+      link: https://linkedin.com
 
   github:
       icon: fa-github
-      link: https://github.com/WmeldrumU
+      link: https://github.com
 
 
 
@@ -91,4 +91,4 @@ expertise:
     color: rgb(230, 133, 172)
 
 
-buy-button: false
+buy-button: true

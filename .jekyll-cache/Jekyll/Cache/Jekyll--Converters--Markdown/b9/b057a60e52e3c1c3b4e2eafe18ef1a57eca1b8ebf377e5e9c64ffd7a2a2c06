@@ -1,7 +1,7 @@
-I"P<h3 id="write-to-me">Write to me</h3>
+I"I<h3 id="write-to-me">Write to me</h3>
 <p>I care about my readers’ opinions. Please leave a note or just say hello.</p>
 
-<form action="https://formspree.io/wmeldrum1@gmail.com" method="POST">
+<form action="https://formspree.io/john@doe.com" method="POST">
   <div class="form-group">
     <label for="email">Email address</label>
     <input type="email" name="email" class="form-control" placeholder="Enter email" />
