@@ -2,7 +2,7 @@
 title: Stylized VR
 image: /assets/images/henry-co-481270-unsplash.jpg
 description: Unreal Engine project showing capabilities of stylized rendering in VR. The environment has three “windows” that the user can pick up and look through. Depending on the window, the environment will be cel-shaded, 1-bit shaded, or shaded with cross-hatching. https://youtu.be/3tGW95dl4HM
-date: 2017-05-01
+date: 2021-05-26
 layout: post
 ---
 
