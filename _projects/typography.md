@@ -2,7 +2,6 @@
 title: Typography
 image: /assets/images/w-349443-unsplash.jpg
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam, voluptatibus, odio. Saepe dolorem magni qui, porro consectetur quia nobis! Doloribus mollitia id labore placeat autem cum rem, dolorum quos nesciunt.
-company: Another Company
 date: 2018-12-04
 layout: post
 ---
