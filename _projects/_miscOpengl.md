@@ -14,7 +14,7 @@ The Western United States Pipe Band Association (WUSPBA) approached the Universi
 
 This experience taught me so much: how to bond a group of five strangers working together, how to make decisions as a leader, and how to deal with development complications in a long-form project. 
 
-You cango ahead and view the site and app here: [register.wuspba.org](https://register.wuspba.org) and [Android app github](https://github.com/JohnnyNing/wuspba)
+You can go ahead and view the site and app here: [register.wuspba.org](https://register.wuspba.org) and [Android app github](https://github.com/JohnnyNing/wuspba)
 
 <iframe src="/assets/pdf/HomeTeam_Poster.pdf" width="100%" height="500px">
 </iframe>
