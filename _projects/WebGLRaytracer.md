@@ -9,13 +9,14 @@ layout: post
 
 **Software-based raytracing program that can run on any web browser. User can interact with camera, lighting, and scene objects as well as toggle between rasterization, raytracing, or hybrid rendering.** 
 
+Project for CS 4600 (Intro to Computer Graphics). Not only was this a lesson in ray tracing, but deffered rendering as well. As some of you may know, OpenGL does not support ray tracing. Because of this, you have to "hack" the graphics pipeline by drawing a quad or tri over the camera viewport and implementing ray tracing through the fragment shader. 
 
-This was a group project with 5 other students. We created a unified design document before writing a single line of code. Because of this, each one of us were able to understand our software (and its drawbacks) and could address them during the design phase. Our team was split up into two groups of three people. I was the "representative" of my team, which focused on the client while the other team worked on the server. Any hiccups in the process were addressed through quick group meetings and an executive decision between the two team representatives. Compared to my other group projects, this one had the best communication, which helped us achieve a top 3 implementation compared to our class. 
+A cool feature of this project was that it still had rasterization capability -- and could even combine the two (rays for reflection, rasterization for the rest). Of course, this project supports full ray-based rendering as well.
 
-<br>
-<div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/81y9wIl52fw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-<br>
+Line-sphere intersections are the bread and butter of this project. One way of doing so is by substituting the equation of a ray into the implicit function/equation of a sphere. After lot of algebra, we end up with a qudratic equation and solve for our missing term which tells us if/where intersections take place! I highly recommending checking out either of these for more on ray-sphere intersections:
+
+- [Scratchapixel ray-sphere intersections](https://www.scratchapixel.com/lessons/3d-basic-rendering/minimal-ray-tracer-rendering-simple-shapes/ray-sphere-intersection)
+
+- [Wikipedia ray-sphere intersection](https://en.wikipedia.org/wiki/Line%E2%80%93sphere_intersection)
 
 
