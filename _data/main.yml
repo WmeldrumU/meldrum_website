@@ -77,6 +77,10 @@ expertise:
   - title: OpenGL
     level: 60
     color: rgb(80, 185, 185)
+    
+  - title: WebGL
+    level: 60
+    color: rgb(80, 185, 185)
 
   - title: Networking + Systems
     level: 75
